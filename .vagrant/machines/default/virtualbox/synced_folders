@@ -1,1 +1,0 @@
-{"virtualbox":{"/ansible":{"guestpath":"/ansible","hostpath":"/home/agner/Documentos/Mentoria/ansible/projetos_ansible/vagrant-ansible-nginx/ansible","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/agner/Documentos/Mentoria/ansible/projetos_ansible/vagrant-ansible-nginx","disabled":false,"__vagrantfile":true}}}
