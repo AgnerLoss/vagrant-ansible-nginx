@@ -15,6 +15,11 @@
     remote_src: yes 
   become: true
   become_method: sudo
-
-
+  
+- name: Reiniciando nginx
+  service:
+    name: nginx
+    state: restarted
+  become: true
+  become_method: sudo
 ...
